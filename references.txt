@@ -1,6 +1,7 @@
-https://www.tutorialspoint.com/graph_theory/graph_theory_isomorphism.htm
-https://www.w3schools.com/python/matplotlib_plotting.asp
-Wolfram MathWorld: https://mathworld.wolfram.com/GraphIsomorphism.html
-Brilliant.org: https://brilliant.org/wiki/graph-isomorphism/
-GeeksforGeeks: https://www.geeksforgeeks.org/graph-isomorphism-problem/
-Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/graph-isomorphism/
+- Used for the Graph definitions and basic concepts -> https://www.tutorialspoint.com/graph_theory/graph_theory_isomorphism.htm
+- Used as reference for some of the codes where the 'matplotlib.pyplot' library was used -> https://www.w3schools.com/python/matplotlib_plotting.asp
+- Used as reference for some of the codes where the 'networkx' library was used -> https://medium.com/swlh/a-tutorial-on-networkx-network-analysis-in-python-part-i-43c1d35830b6
+- Used for some explanations on the isomorphism topic -> https://www.britannica.com/science/isomorphism-mathematics
+- Used in the index definition for 'Degree Sequence'-> https://mathworld.wolfram.com/DegreeSequence.html
+- Used in the index definition for 'Polynomial Time' -> https://mathworld.wolfram.com/PolynomialTime.html
+- Used in the index definition for 'NP-Complete' -> https://www.britannica.com/science/NP-complete-problem
