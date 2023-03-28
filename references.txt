@@ -1,2 +1,6 @@
 https://www.tutorialspoint.com/graph_theory/graph_theory_isomorphism.htm
 https://www.w3schools.com/python/matplotlib_plotting.asp
+Wolfram MathWorld: https://mathworld.wolfram.com/GraphIsomorphism.html
+Brilliant.org: https://brilliant.org/wiki/graph-isomorphism/
+GeeksforGeeks: https://www.geeksforgeeks.org/graph-isomorphism-problem/
+Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/graph-isomorphism/
