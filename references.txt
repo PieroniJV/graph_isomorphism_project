@@ -5,3 +5,4 @@
 - Used in the index definition for 'Degree Sequence'-> https://mathworld.wolfram.com/DegreeSequence.html
 - Used in the index definition for 'Polynomial Time' -> https://mathworld.wolfram.com/PolynomialTime.html
 - Used in the index definition for 'NP-Complete' -> https://www.britannica.com/science/NP-complete-problem
+- Used in the explanation about the graph isomorphism problem -> https://mathworld.wolfram.com/GraphIsomorphism.html
